@@ -10,6 +10,7 @@ Pashyant Srivastava
 - [A91y](https://github.com/A91y)
 - [हर्षित  जैन ](https://github.com/jharsh1202)
 - [Ashutosh Vishwakarma](https://github.com/ashvish183)
+- [Bimal Parajuli](https://github.com/bimal-parajuli)
 - [Aditya Ojha](https://github.com/Aditya-Ojha)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Jeong Shin](https://github.com/jshinnn)
